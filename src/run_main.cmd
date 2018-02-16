@@ -1,0 +1,1 @@
+ampy --port com9 run main.py
